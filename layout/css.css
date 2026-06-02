@@ -4,8 +4,13 @@
     box-sizing: border-box;
 }
 
-header {
+body {
     background-color: gold;
-    color:black;
+    color:white;
+}
+
+header {
+    background-color: blue;
+    color:white;
     padding:2rem;
 }
