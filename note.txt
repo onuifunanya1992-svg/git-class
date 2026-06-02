@@ -3,4 +3,6 @@ staging:
       (a) git add <filename> (to stage one file)
       (b) git add . (to stage all files)
 
-  3. commit: git commit -m "first commit"    
+  3. commit: git commit -m "first commit"   
+
+  4. push: git push -u origin main 
